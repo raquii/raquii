@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Gatsby, GraphQL**
 
-- 👨‍💻 All of my projects are available at [www.raquelromanrodri.com](www.raquelromanrodri.com)
+- 👨‍💻 All of my projects are available at [www.raquelromanrodri.com](https://www.raquelromanrodri.com)
 
 - 📝 I regularly write articles on [dev.to/raquii](dev.to/raquii)
 
