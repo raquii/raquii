@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Gatsby, GraphQL**
 
-- 👨‍💻 All of my projects are available at [raquelromanrodri.com](raquelromanrodri.com)
+- 👨‍💻 All of my projects are available at [www.raquelromanrodri.com](www.raquelromanrodri.com)
 
 - 📝 I regularly write articles on [dev.to/raquii](dev.to/raquii)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, ruby on rails**
 
 - 📫 How to reach me **raquelanaroman@gmail.com**
 
