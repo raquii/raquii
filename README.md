@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Raquel Román-Rodriguez</h1>
-<h3 align="center">A software engineer based in Cleveland, Ohio</h3>
+<h3 align="center">A software engineer based in Brooklyn, NY</h3>
 
 <p align="left"> <a href="https://twitter.com/raquelitaroman" target="blank"><img src="https://img.shields.io/twitter/follow/raquelitaroman?logo=twitter&style=for-the-badge" alt="raquelitaroman" /></a> </p>
 
 - ✨ Pronouns: she/her/hers
 
-- 🌱 I’m currently learning **GoLang**
-
 - 💅 I used to love the front-end, but that was just because I hadn't *really* met the back-end yet.
 
 - 💬 Ask me about **mechanical keyboards, making tostones, the international phonetic alphabet.**
 
-- 👨‍💻 My personal projects are available at [www.raquelromanrodri.com](https://www.raquelromanrodri.com)
+- 👨‍💻 My personal projects are available at [raquelromanrodri.com](https://www.raquelromanrodri.com)
 
 - ⚡ Fun Fact: **I taught voice lessons for 7+ years and have sang in front of crowds as large as 25k.**
 
